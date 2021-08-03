@@ -1,7 +1,7 @@
 # 聊天软件 Victor
 
 作者：[WQ-Vincent](https://www.cnblogs.com/wqvincent/)，
-这是一款基于 QtCreater 开发的即时通讯软件，借用了QQ，微信的一些元素。目前支持局域网聊天。**screenshoot中有软件运行的部分截图**。目前实现了预设的70%左右，持续填坑中。
+这是一款基于 QtCreater 开发的即时通讯软件，借用了QQ，微信的一些元素。目前支持局域网聊天。**screenshoot中有软件运行的部分截图**。持续填坑中。
 
 **供大家学习参考，觉得不错的点个星星吧！**
 
